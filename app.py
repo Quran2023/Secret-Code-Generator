@@ -17,7 +17,7 @@ def caesar(message, offset):
     return encrypted_text
 
 # Streamlit app layout
-st.title("Caesar Cipher Web App")
+st.title("Secret Code Generator")
 st.write("Encrypt your text using the Caesar cipher.")
 
 # Input for plain text
